@@ -1,6 +1,6 @@
 Name:		texlive-listlbls
-Version:	34893
-Release:	2
+Version:	67215
+Release:	1
 Summary:	Creates a list of all labels used throughout a document
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/listlbls
