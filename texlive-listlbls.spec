@@ -3,7 +3,7 @@ Version:	67215
 Release:	1
 Summary:	Creates a list of all labels used throughout a document
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/listlbls
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/listlbls
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/listlbls.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/listlbls.doc.r%{version}.tar.xz
